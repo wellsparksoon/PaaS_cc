@@ -45,9 +45,9 @@ vlss + vmss + trjan + shdscks2022
 默认路径：**/协议名称/设置的UUID**
 
 1. 假设UUID为：0123456789
-2. 则vless默认的路径为：/vlss/0123456789
+2. 则vlss默认的路径为：/vlss/0123456789
 
-> 如果设置vless路径为<u>/vlss1</u>，则配置路径就为<u>/vlss1</u>
+> 如果设置vlss路径为<u>/vlss1</u>，则配置路径就为<u>/vlss1</u>
 
 ****
 
