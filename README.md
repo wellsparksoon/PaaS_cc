@@ -53,4 +53,4 @@ vlss + vmss + trjan + shdscks2022
 
 
 
-[Xcv1.6.0](https://github.com/XTLS/Xc-core)	·	[Caddy v2.6.1](https://github.com/caddyserver/caddy)	·	[2048小游戏](https://github.com/gabrielecirulli/2048)
+[Xcv1.6.0](https://github.com/XTLS/Xc-core)	·	[Caddy v2.6.1](https://github.com/caddyserver/caddy)	
